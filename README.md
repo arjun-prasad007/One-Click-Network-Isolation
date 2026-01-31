@@ -20,7 +20,7 @@ The interactive email received by the analyst to make quick containment decision
 ![](/assets/Emailalert.png)
 3. Verification (Proof of Isolation)
 Evidence of a successful isolation where the Windows machine shows "General Failure" during network pings, confirming the firewall rule is active.
-![](/assets/proof-of-isolation.png)
+![](/assets/Proof-of-isolation.png)
 🛠️ Technical Skills Demonstrated
 SIEM/XDR: Wazuh Rule configuration and Active Response.
 SOAR: Workflow automation and API integration with Tines.
