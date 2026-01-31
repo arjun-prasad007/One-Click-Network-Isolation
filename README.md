@@ -14,13 +14,13 @@ Containment: The Wazuh agent on the Windows machine creates a firewall rule call
 📸 Proof of Concept
 1. Automation Workflow (Tines)
 The logic built within Tines to handle alerts and branching triggers.
-![](/assets/Tinesworkflow.png)
+![](/assets/Tines_workflow.png)
 2. Analyst Interface (Email Alert)
 The interactive email received by the analyst to make quick containment decisions.
-![](/assets/Emailalet.png)
+![](/assets/Emailalert.png)
 3. Verification (Proof of Isolation)
 Evidence of a successful isolation where the Windows machine shows "General Failure" during network pings, confirming the firewall rule is active.
-![](/assets/proofofisolation.png)
+![](/assets/proof-of-isolation.png)
 🛠️ Technical Skills Demonstrated
 SIEM/XDR: Wazuh Rule configuration and Active Response.
 SOAR: Workflow automation and API integration with Tines.
